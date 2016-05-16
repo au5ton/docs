@@ -1,6 +1,8 @@
 # docs
 Documentation for the undocumented. For more information, check out the Wiki tab. All of the documentation is done there.
 
+### [Check out the Wiki](https://github.com/au5ton/docs/wiki)
+
 ## Purpose
 
 Say you want to make an app for a site that doesn't officially have an API, well you have to know how it works, right?
